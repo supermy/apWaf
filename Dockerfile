@@ -1,3 +1,4 @@
+#废弃，下载文件没有提供编译好的 so 文件；新的安装方式看 openresty 的项目
 #增加WAF 防火墙
 
 FROM supermy/ap-openresty
